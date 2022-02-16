@@ -1,59 +1,66 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "HTML",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/html.png",
+        "alt": "html logo"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "CSS",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/css.png",
+        "alt": "css logo"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/js.png",
+        "alt": "js logo"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "React",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/react.png",
+        "alt": "react logo"
       }
     },
     {
-      "label": "Animations",
+      "label": "Ruby",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/ruby.png",
+        "alt": "ruby logo"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Figma",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/figma.png",
+        "alt": "figma logo"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Photoshop",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
+        "src": "../../images/ps.png",
+        "alt": "photoshop logo"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Illustrator",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/ai.png",
+        "alt": "illustrator logo"
+      }
+    },
+    {
+      "label": "InDesign",
+      "image": {
+        "src": "../../images/indesign.png",
+        "alt": "indesign logo"
       }
     }
   ],

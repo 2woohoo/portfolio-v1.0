@@ -1,18 +1,14 @@
 {
-  "intro": "Hej",
+  "intro": "Hi!",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I am Ellie. I love to",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "DESIGN & DEVELOP",
+    "suffix": ".✨"
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
-  }
+  "description": "Passionate about learning new things and transforming the knowledge into valuable outputs. I am currently looking for a role that could utilize my design and programming skillsets to the best. I am open to freelancing/part-time opportunities as well."
 }
